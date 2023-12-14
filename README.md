@@ -9,5 +9,5 @@
 - Machine Learning: Use Random Forest of Depth 12 to predict the type of crime(Light, Medium, or Serious) based on the user's information(Sex, Age Group, Current Location(LAT, LON))
 - Neural Network: Use Neural Network(Convolution -> Maxpooling -> LSTM -> Dense) to predict the type of crime(Light, Medium, or Serious) based on the user's information(Sex, Age Group, Current Location(LAT, LON)). It serves as a comparison to the performance of the machine learning model.
 
-5. For detailed instructions on how to use the functionalities of this project, please read "Final Report.py"
+5. For detailed instructions on how to use the functionalities of this project, please read "Final Report.ipynb"
 6. We hope that this project keeps people aware of the potential danger surrounding them and helps everyone stay safe.
